@@ -1,0 +1,9 @@
+build/
+managed_components/
+
+.vscode/
+
+# ignore esp-idf configuration
+sdkconfig
+sdkconfig.old
+.qtcreator
